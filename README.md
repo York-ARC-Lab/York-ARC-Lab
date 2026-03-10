@@ -49,7 +49,6 @@ This GitHub organisation hosts open-source tools and control systems developed i
 
 - **Instrument Control** — Python-based interfaces for laboratory devices (HPLC autosamplers, hotplates, syringe pumps)
 - **Robotic Arm Integration** — TCP/IP communication systems for Dobot robotic arms, including gripper and syringe pump control
-- **Motor & Actuator Control** — ESP32/Arduino firmware for servo and stepper motor systems with encoder feedback
 - **Data Pipelines** — Automated processing of LC-MS and NMR datasets
 - **Lab Automation GUIs** — Tkinter and web-based interfaces for equipment control and monitoring
 
@@ -83,7 +82,6 @@ We can help you with:
 
 - 🌐 [ARC Lab Website](https://www.york.ac.uk/chemistry/about/facilities/analytical/automated-robotics/)
 - 🔬 [Fairlamb Group](https://fairlamb.group/)
-- 🏛️ [Department of Chemistry, University of York](https://www.york.ac.uk/chemistry/)
 - 🧪 [Dr. Chris Horbaczewskyj – ORCID](https://orcid.org/0000-0003-2393-0246)
 
 ---
