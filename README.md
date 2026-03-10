@@ -69,7 +69,6 @@ This GitHub organisation hosts open-source tools and control systems developed i
 - 🌐 [ARC Lab Website](https://www.york.ac.uk/chemistry/about/facilities/analytical/automated-robotics/)
 - 🔬 [Fairlamb Group](https://fairlamb.group/)
 - 🏛️ [Department of Chemistry, University of York](https://www.york.ac.uk/chemistry/)
-- 🧪 [Dr. Chris Horbaczewskyj – ORCID](https://orcid.org/0000-0003-2393-0246)
 
 ---
 
