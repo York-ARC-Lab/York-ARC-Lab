@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.york.ac.uk/static/2/images/uoy_logo_white.svg" width="0" height="0" alt="">
+<img src="./banner.gif" width="100%" alt="ARC Lab Banner">
 
 # ⚗️ Automated Robotics for Chemistry (ARC)
 
@@ -64,11 +64,27 @@ This GitHub organisation hosts open-source tools and control systems developed i
 
 ---
 
+## 🤝 Work With Us
+
+The ARC Lab offers services to both academic and commercial users — from multinational pharmaceutical companies to start-ups and SMEs.
+
+We can help you with:
+- High-throughput reaction screening
+- Automated synthesis and sample preparation
+- Custom automation solutions for your workflow
+- Data science and reaction analysis
+
+📋 **[Complete our enquiry form](https://docs.google.com/forms/d/e/1FAIpQLSdOSHysEv_DU2tzqK2ejHLqVzovIbXxx6S7Nm6n9OE0_20isw/viewform)**
+&nbsp;&nbsp;or email us at **[chemistry-facilities@york.ac.uk](mailto:chemistry-facilities@york.ac.uk)**
+
+---
+
 ## 🔗 Links
 
 - 🌐 [ARC Lab Website](https://www.york.ac.uk/chemistry/about/facilities/analytical/automated-robotics/)
 - 🔬 [Fairlamb Group](https://fairlamb.group/)
 - 🏛️ [Department of Chemistry, University of York](https://www.york.ac.uk/chemistry/)
+- 🧪 [Dr. Chris Horbaczewskyj – ORCID](https://orcid.org/0000-0003-2393-0246)
 
 ---
 
