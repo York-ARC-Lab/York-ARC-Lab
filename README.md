@@ -82,7 +82,6 @@ We can help you with:
 
 - 🌐 [ARC Lab Website](https://www.york.ac.uk/chemistry/about/facilities/analytical/automated-robotics/)
 - 🔬 [Fairlamb Group](https://fairlamb.group/)
-- 🧪 [Dr. Chris Horbaczewskyj – ORCID](https://orcid.org/0000-0003-2393-0246)
 
 ---
 
