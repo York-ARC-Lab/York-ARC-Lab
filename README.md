@@ -60,6 +60,10 @@ This GitHub organisation hosts open-source tools and control systems developed i
 |---|---|
 | **Prof. Ian Fairlamb** | Principal Investigator, ARC Lab Director |
 | **Dr. Chris Horbaczewskyj** | Technical Specialist in Automation Technologies for Chemistry |
+| **Barney Franklin** | PhD in Data Science for Chemistry - ALBERT CDT |
+| **Alice Martin** | PhD in Chemistry - ALBERT CDT |
+| **Jonathon Pipe** | PhD in Robotics - ALBERT CDT |
+| **Kefeng Huang** | PhD in Robotics - ALBERT CDT |
 
 ---
 
